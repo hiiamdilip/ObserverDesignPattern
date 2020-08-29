@@ -1,4 +1,4 @@
-# designPatternObserver
+# ObserverDesignPattern
 Observer pattern is classified among the behavioral design patterns. Behavioral design patterns are most specifically concerned with communication between classes/objects.
 It defines a one-to-many mapping between objects so that when one object changes state, all its dependents are notified and updated automatically.
 This pattern is commonly called Publish-Subscribe and is the cornerstone for Reactive Programming.
